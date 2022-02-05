@@ -1,16 +1,18 @@
-f = raw_input("Enter the path and filename of the file: ")
-f1 = open(f)
+dna = raw_input("Enter the DNA: ")
 
-output = open('rosalind_ini6_output.txt', 'w+')
+adenine = 0
+cytosine = 0
+guanine = 0
+thymine = 0
 
-word_bag = {}
+for word in range(len(dna)) :
+    if dna[word] == "A" :
+        adenine += 1
+    elif dna[word] == "C" :
+        cytosine += 1
+    elif dna[word] == "G" :
+        guanine += 1
+    elif dna[word] == "T" :
+        thymine += 1
 
-for word in range(len(f1.read().rstrip())) :
-    if word.isalpha() :
-        if word in word_bag:
-            word_bag[word] += 1
-        else:
-            word_bag[word] = 1
-
-for key, value in word_bag.items():
-    print key, value
+print adenine, cytosine, guanine, thymine
