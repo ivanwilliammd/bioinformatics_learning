@@ -16,7 +16,7 @@ def combinatoric_protein_finder(protein_sample, final_combination):
     else:
         final_combination *= single_protein_combination
     
-    return final_combination
+    return final_combination % 1000000
 
 
 for i in range(len(protein)) :
