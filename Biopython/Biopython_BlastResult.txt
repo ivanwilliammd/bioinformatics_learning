@@ -1,0 +1,350 @@
+****Alignment****
+sequence:gi|1503253460|gb|MK114118.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, partial genome
+length:18936
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1282621605|gb|MG572235.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome
+length:18957
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1500174811|gb|MK044561.1| Zaire ebolavirus isolate ZEBOV/Human/DRC/2014/BOE_036, partial genome
+length:18898
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1500174801|gb|MK044560.1| Zaire ebolavirus isolate ZEBOV/Human/DRC/2014/BOE_023, partial genome
+length:18870
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1500174791|gb|MK044559.1| Zaire ebolavirus isolate ZEBOV/Human/DRC/2014/BOE_011, partial genome
+length:18896
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1500174781|gb|MK044558.1| Zaire ebolavirus isolate ZEBOV/Human/DRC/2014/BOE-070, partial genome
+length:18784
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1487704041|gb|MH898466.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK012, partial genome
+length:18887
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301462|gb|MH733491.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK137, complete genome
+length:18939
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301452|gb|MH733490.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK091, complete genome
+length:18932
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301442|gb|MH733489.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK055, complete genome
+length:18913
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301422|gb|MH733487.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK046, complete genome
+length:18919
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301412|gb|MH733486.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK045, complete genome
+length:18914
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301402|gb|MH733485.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK039, complete genome
+length:18940
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301392|gb|MH733484.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK037, complete genome
+length:18905
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301382|gb|MH733483.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK031, complete genome
+length:18944
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301372|gb|MH733482.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK026, complete genome
+length:18944
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301362|gb|MH733481.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK025, complete genome
+length:18939
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301352|gb|MH733480.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK019, complete genome
+length:18938
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301342|gb|MH733479.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK016, complete genome
+length:18944
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301332|gb|MH733478.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK011, complete genome
+length:18941
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1453301322|gb|MH733477.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK009, complete genome
+length:18894
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1517365859|gb|MK088515.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2017/Muyembe-18FHV012b, complete genome
+length:18934
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1436008541|gb|MH613311.1| Zaire ebolavirus isolate H.sapiens-wt/COD/2017/Muyembe.1, complete genome
+length:18899
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1431829175|gb|MH464889.1| Vector pEBO_BDBV-GP, complete sequence
+length:21172
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1431829165|gb|MH464888.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP, complete genome
+length:18962
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1425140432|gb|MH481611.2| Zaire ebolavirus strain Ebola_virus/DRC/Likati/Human/2017/1, complete genome
+length:18898
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1390208419|gb|MH121168.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/Zaire/1976/Mayinga-R3816, complete genome
+length:18958
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1390208399|gb|MH121166.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+length:18957
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1390208389|gb|MH121165.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome
+length:18959
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866795|gb|KY425656.1| Zaire ebolavirus isolate IRF0164, partial genome
+length:18899
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866765|gb|KY425653.1| Zaire ebolavirus isolate IRF0120, partial genome
+length:18894
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866755|gb|KY425652.1| Zaire ebolavirus isolate IRF0150, partial genome
+length:18890
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866739|gb|KY425649.1| Zaire ebolavirus isolate IRF0206, partial genome
+length:18907
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866719|gb|KY425647.1| Zaire ebolavirus isolate IRF0147, partial genome
+length:18902
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866668|gb|KY425639.1| Zaire ebolavirus isolate IRF0175, partial genome
+length:18880
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866655|gb|KY425637.1| Zaire ebolavirus isolate IRF0176, partial genome
+length:18911
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1129866645|gb|KY425636.1| Zaire ebolavirus isolate IRF0190, partial genome
+length:18909
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|824041056|gb|KR819004.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2014/Lomela-Lokolia-B11, partial genome
+length:18861
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|824041261|gb|KR867676.1| Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome
+length:18956
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|824041176|gb|KR824526.1| Zaire ebolavirus isolate Zaire ebolavirus H. sapiens-tc/ZAI/1995/Zaire-199510621, partial genome
+length:18920
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|2183122623|gb|OL956940.1| Synthetic construct clone rEBOV-ZsG, complete sequence
+length:19720
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|566573369|gb|KF827427.1| Mutant Zaire ebolavirus, complete sequence
+length:18959
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|2079589136|gb|MT583342.1| Zaire ebolavirus culture BEI<USA>:NR_51690, complete genome
+length:18943
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|2079589126|gb|MT583341.1| Zaire ebolavirus culture BEI<USA>:NR_51689, complete genome
+length:18950
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|2079589116|gb|MT583340.1| Zaire ebolavirus culture BEI<USA>:NR_51688, complete genome
+length:18944
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|2079589106|gb|MT583339.1| Zaire ebolavirus culture BEI<USA>:NR_51687, complete genome
+length:18950
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|1946847804|gb|MN975535.1| Cloning vector BB866 - EBOV/Tum
+length:21214
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|21702647|gb|AF499101.1| Zaire Ebola virus strain Mayinga, complete genome
+length:18960
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|11761745|gb|AF272001.1| Zaire Ebola virus strain Mayinga, complete genome
+length:18959
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+****Alignment****
+sequence:gi|2546940|emb|X67110.1| Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga
+length:7231
+e value:2.06885e-28
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CATGCTACGGTGCTAAAAGCATTACGCCCTATAGTGATTTTCGAGACATACTGTGTTTTTAAATATAGTATTGCC
